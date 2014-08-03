@@ -1,0 +1,10 @@
+#define TYPE_NUM 3
+#define NOTHING 0
+#define PLAYER 1
+#define ROBOT 2
+#define SCRAP 3
+#define MAXROBOT 40
+#define GAMECONTINUE 0
+#define GAMECLEAR 1
+#define GAMEOVER 2
+#define GAMEEND 3
